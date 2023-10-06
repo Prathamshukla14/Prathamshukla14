@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Prathamshukla14
-- 👀 I’m interested in web development, coding
+- 👋 Hi, I’m @Prathamshukla
+- 👀 I’m interested in front end web development using HTML,CSS,Javascript 
 - 🌱 I’m currently learning front end web developing 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to find an internship
 - 📫 How to reach me email me on pratham9366@gmail.com
 
 <!---
