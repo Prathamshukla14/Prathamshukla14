@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prathamshukla
-- 👀 I’m interested in front end web development using HTML,CSS,Javascript 
-- 🌱 I’m currently learning front end web developing 
+- 👀 I’m interested in Full stack web development using HTML,CSS,Javascript, Reactjs, Nodejs, Expressjs
+- 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to find an internship
 - 📫 How to reach me email me on pratham9366@gmail.com
 
